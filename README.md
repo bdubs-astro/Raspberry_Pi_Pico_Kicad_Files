@@ -1,6 +1,16 @@
+# Raspberry Pi Pico SC0915 Module
+
+<img src = "./images for README/Pico 3D view.png" width = "600"/>
+
+<br>
+
+<img src = "./images for README/Pico symbol.png" width = "600"/>
+
+<br>
+
 # KiCad 6 Custom Libraries
 
-<h3> Configure Paths </h3>
+### Configure Paths
 
 KiCad custom libraries can be made more portable by using custom path designations. These allow the locations of any custom libraries to be modified easily. These can be added in the form of ***Environment Variables***. 
 From the main KiCad 6 application, open the ***Preferences*** menu, then select ***Configure Paths***.
@@ -15,7 +25,7 @@ From the main KiCad 6 application, open the ***Preferences*** menu, then select 
  <img src = "./images for README/KiCad 6 path configuration 2.png" width = "600"/>
 
 
-<h3> KiCad 6 Library File Formats </h3>
+### KiCad 6 Library File Formats
 
 In KiCad 6, symbols, footprints, and 3D model files have the following formats.
 
@@ -25,7 +35,7 @@ In KiCad 6, symbols, footprints, and 3D model files have the following formats.
 | *.kicad_mod | PCB Footprints  
 | *.stp, *.step, *.wrl, *.x3d | 3D Models 
 
-<h3> Add Schematic Symbols </h3>
+### Add Schematic Symbols
 
 - From the main KiCad 6 application, open the ***Preferences*** menu, then select ***Manage Symbol Libraries***.
 - Choose either the ***Global Libraries*** or ***Project Specific Libraries*** table, then select the ```+``` or folder icon at the lower left to 
@@ -42,7 +52,7 @@ newest format using the ***Migrate Libraries*** button at the lower right.
  
  <img src = "./images for README/KiCad 6 symbol libraries.png" width = "600"/>
  
-<h3> Add PCB Footprints </h3>
+### Add PCB Footprints
 
 - From the main KiCad 6 application, open the ***Preferences*** menu, then select ***Manage Footprint Libraries***.
 - Choose either the ***Global Libraries*** or ***Project Specific Libraries*** table, then select the ```+``` or folder icon at the lower left to 
@@ -59,7 +69,7 @@ option.
  <img src = "./images for README/KiCad 6 footprint libraries.png" width = "600"/>
 
 
-<h3> Add 3D Models </h3>
+### Add 3D Models
 
 - From ***Footprint Editor***, select the desired footprint.
 - Double-click to open it for editing.
@@ -76,7 +86,7 @@ option.
  <img src = "./images for README/KiCad 6 3D models 2.png" width = "600"/>
 
 
-<h3> Resources </h3>
+### Resources
 
 https://circuitstate.com/tutorials/how-to-install-kicad-version-6-and-organize-part-libraries/
 
