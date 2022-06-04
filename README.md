@@ -11,6 +11,10 @@
 
 <br>
 
+https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+
+<br>
+
 # KiCad 6 Custom Libraries
 
 ### Configure Paths
