@@ -1,5 +1,8 @@
 # Raspberry Pi Pico SC0915 Module
 
+### Note that this footprint uses pin headers for __THT__ applications.
+
+<br> 
 <img src = "./images for README/Pico 3D view.png" width = "600"/>
 
 <br>
