@@ -13,6 +13,8 @@
 
 https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
 
+https://datasheets.raspberrypi.com/pico/Pico-R3-A4-Pinout.pdf
+
 <br>
 
 # KiCad 6 Custom Libraries
