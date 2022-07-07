@@ -3,12 +3,13 @@
 ### Note that this footprint uses pin headers for __THT__ applications.
 
 <br> 
-<img src = "./images for README/Pico 3D view.png" width = "600"/>
+<img src = "./images for README/Pico 3D view - FR4.png" width = "600"/>
 
 <br>
 
 <img src = "./images for README/Pico symbol.png" width = "600"/>
 
+<br>
 <br>
 
 https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
